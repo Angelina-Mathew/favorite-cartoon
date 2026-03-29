@@ -1,6 +1,7 @@
 import './App.css';
 import Image from './Image';
 
+/* import cartoon images from image folder*/
 import image1 from './images/Baymax.png';
 import image2 from './images/HiroHamada.png';
 import image3 from './images/HoneyLemon.png';

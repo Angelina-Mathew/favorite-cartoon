@@ -1,4 +1,4 @@
-/* the resuable image component*/
+
 function Image({ src, title }) {
   return (
     <div className="image-card">

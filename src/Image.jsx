@@ -1,5 +1,6 @@
 
 function Image({ src, title }) {
+  
   return (
     <div className="image-card">
       <img src={src} alt={title} />
